@@ -50,3 +50,16 @@ h3 {
 	-moz-box-shadow: 2px 2px 2px #000;
 	box-shadow: 2px 2px 2px #000;
 }
+
+#dadosPessoais, li {
+    font-size: 14px;
+	font-family: serif;
+	font-weight: normal;
+	text-align: left;
+}
+
+#creditos {
+    position: relative;
+    bottom: 1px;
+    text-align: right;
+}
