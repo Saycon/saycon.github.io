@@ -60,6 +60,7 @@ h3 {
 
 #creditos {
     position: relative;
+    font-size: 10px;
     bottom: 1px;
     text-align: right;
 }
